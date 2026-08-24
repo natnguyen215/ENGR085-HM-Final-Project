@@ -1,6 +1,6 @@
-# E85 HMC Final Project
+# ENGR085-HM-Final-Project: A Multicycle RISC-V CPU Simulation
 
-This repository contains a Spring 2026 class project for **E85: Digital Electronics and Computer Engineering** at Harvey Mudd College. The project implements a multicycle RISC-V processor in SystemVerilog.
+This repository contains a Spring 2026 class project for **ENGR085 HM: Digital Electronics and Computer Engineering** at Harvey Mudd College. The project implements a multicycle RISC-V processor in SystemVerilog.
 
 The processor uses a finite-state controller and a multicycle datapath with unified instruction and data memory. It supports the instruction types exercised in the course project: `lw`, `sw`, R-type ALU operations, `beq`, I-type ALU operations, and `jal`.
 
