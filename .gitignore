@@ -1,0 +1,22 @@
+# Simulation output
+*.vcd
+*.wlf
+*.vvp
+transcript
+work/
+build/
+
+# FPGA tool output
+db/
+incremental_db/
+output_files/
+simulation/
+*.qpf
+*.qsf
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
